@@ -109,9 +109,36 @@ Data s výsledky jsou uloženy v souborech descriptive_statistics.csv a descript
 
 ### Korelační analýza
 
+#### Korelační matice
 ![image](https://github.com/mamaegeo/ZDA/assets/135848732/9e619b53-c9ee-47c4-a0e2-9d4057504fe5)
 
+#### Nejvyšší korelace:
 
+Future_career_concerns a stress_level: 0.74
+
+#### Nejnižší korelace:
+
+Self_esteem a blood_pressure: -0.76
+
+#### Pozitivní korelace:
+
+Anxiety_level a depression: 0.69
+
+Anxiety_level a future_career_concerns: 0.72
+
+Depression a headache: 0.66
+
+Self_esteem a social_support: 0.68
+
+#### Negativní korelace:
+
+Anxiety_level a sleep_quality: -0.71
+
+Self_esteem a future_career_concerns: -0.71
+
+Sleep_quality a social_support: -0.68
+
+Bullying a self_esteem: -0.76
 
 ## Výsledek (Result)
 
