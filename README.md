@@ -110,7 +110,7 @@ Data s výsledky jsou uloženy v souborech descriptive_statistics.csv a descript
 ### Korelační analýza
 
 #### Korelační matice
-Matice se nacházi v souboru correlation_matrix.txt a 
+Matice se nacházi v souboru correlation_matrix.txt
 
 #### Nejvyšší korelace:
 
