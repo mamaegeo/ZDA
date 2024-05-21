@@ -18,6 +18,10 @@ V rámci tohoto projektu jsem analyzoval faktory přispívající ke stresu mezi
 
 ## Zadání (Task)
 
+Cílem bylo identifikovat, které faktory mají největší dopad na úroveň stresu studentů. Bylo potřeba provést komplexní analýzu dat k odhalení trendů/silných korelací/vzorců, které by mohly pomoci při pochopení a zmírnění stresu u studentů.
+
+## Akce (Action)
+
 ### Příprava dat
 
 Data, která jsem dostal, byla v dobrém stavu. Po provedení kontroly správnosti formátu všech datových prvků a také kontroly chybějících hodnot, dospěl jsem k závěru, že data jsou relativně konzistentní.
@@ -47,8 +51,15 @@ depression: Patient Health Questionnaire (PHQ-9)
 ostatní: 0,1 - nizká úroveň, 2,3 - průměrná úroveň, 4,5 - vysoká úroveň
 
 ### Deskriptivní statistika
+Základní diskreptivní analýza byla provedena v Pythonu s využitím knihovny Pandas a za pomoci PowerBI.
 
-## Akce (Action)
+Její výsledky jsou uloženy v souborech descriptive_statistics.csv a descriptive_statistics.txt.
+
+### Korelační analýza
+
+![image](https://github.com/mamaegeo/ZDA/assets/135848732/9e619b53-c9ee-47c4-a0e2-9d4057504fe5)
+
+
 
 ## Výsledek (Result)
 
