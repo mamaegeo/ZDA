@@ -1,6 +1,6 @@
 # ZDA
 
-## Téma semestrální práce: Analyza faktorů stresu u studentů
+## Téma semestrálního projektu: Analyza faktorů stresu u studentů
 
 ## Situace (Situation)
 
@@ -142,4 +142,16 @@ Bullying a self_esteem: -0.76
 
 ## Výsledek (Result)
 
+Existuje silný pozitivní vztah mezi úrovní úzkosti a obavami o budoucí kariéru (0.72), což naznačuje, že vyšší úroveň úzkosti může být spojena s většími obavami o budoucnost.
+
+Podobně silný pozitivní vztah je i mezi obavami o budoucí kariéru a úrovní stresu (0.74), což naznačuje, že lidé se silnými obavami o budoucí kariéru často prožívají také vyšší úroveň stresu.
+
+Také existuje silný negativní vztah mezi sebeúctou a zážitkem šikanování (-0.76), což naznačuje, že nižší úroveň sebeúcty může být spojena s vyšší pravděpodobností zkušenosti se šikanováním.
+
+Mezi úzkostí a kvalitou spánku je silná negativní korelace (-0.71), což naznačuje, že vyšší úroveň úzkosti může vést k horší kvalitě spánku.
+
+Také mezi sebeúctou a sociální podporou existuje silná pozitivní korelace (0.68), což znamená, že lidé s vyšší úrovní sebeúcty mají tendenci mít také větší sociální podporu.
+
 ## Shrnutí (Review)
+
+V rámci semestrálního projektu jsem zkisil najít data, udělat jejích přípravu pro další zpracování, provést diskriptivní a korelační analýzy dat a definovat zavěry, které vyplývají z analýzy.
