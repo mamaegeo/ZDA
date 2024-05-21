@@ -110,7 +110,7 @@ Data s výsledky jsou uloženy v souborech descriptive_statistics.csv a descript
 ### Korelační analýza
 
 #### Korelační matice
-![image](https://github.com/mamaegeo/ZDA/assets/135848732/9e619b53-c9ee-47c4-a0e2-9d4057504fe5)
+Matice se nacházi v souboru correlation_matrix.txt a 
 
 #### Nejvyšší korelace:
 
