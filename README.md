@@ -53,7 +53,59 @@ ostatní: 0,1 - nizká úroveň, 2,3 - průměrná úroveň, 4,5 - vysoká úrov
 ### Deskriptivní statistika
 Základní diskreptivní analýza byla provedena v Pythonu s využitím knihovny Pandas a za pomoci PowerBI.
 
-Její výsledky jsou uloženy v souborech descriptive_statistics.csv a descriptive_statistics.txt.
+#### Psychické zdraví:
+
+Úroveň úzkosti: Průměrná úroveň úzkosti byla kolem 11, s rozsahem od 0 do 21.
+
+Sebeúcta: Průměrná úroveň sebeúcty byla asi 17.8, s rozsahem od 0 do 30.
+
+Historie duševního zdraví: Téměř polovina respondentů (49.3%) uvádí historii duševních problémů.
+
+#### Fyzické zdraví:
+
+Deprese: Průměrná úroveň deprese byla přibližně 12.6, s rozsahem od 0 do 27.
+
+Bolesti hlavy: Průměrná úroveň bolesti hlavy byla kolem 2.5, s rozsahem od 0 do 5.
+
+Krevní tlak: Průměrná hodnota krevního tlaku nebyla zmíněna.
+
+#### Životní podmínky:
+
+Kvalita spánku: Průměrná kvalita spánku byla mírně nadprůměrná s hodnotou kolem 2.7, s rozsahem od 0 do 5.
+
+Problémy s dýcháním: Průměrná úroveň problémů s dýcháním byla 2.7, s rozsahem od 0 do 5.
+
+Hlučnost: Průměrná hlučnost byla kolem 2.6, s rozsahem od 0 do 5.
+
+Životní podmínky: Nejčastěji jsou podmínky označeny jako průměrné.
+
+#### Akademické prostředí:
+
+Výkon ve škole: Průměrný výkon ve škole byl 2.8, s rozsahem od 0 do 5.
+
+Zátěž studiem: Průměrná zátěž studiem byla 2.7, s rozsahem od 0 do 5.
+
+Vztah učitel-žák: Vztahy mezi učiteli a studenty byly průměrně hodnoceny na 2.8.
+
+#### Sociální faktory:
+
+Obavy o budoucí kariéru: Průměrná úroveň obav o budoucí kariéru byla 2.8, s rozsahem od 0 do 5.
+
+Sociální podpora: Průměrná úroveň sociální podpory byla 2.6, s rozsahem od 0 do 5.
+
+Nátlak vrstevníků: Průměrný nátlak vrstevníků byl 1.0, s rozsahem od 0 do 2.
+
+#### Další faktory:
+
+Mimoškolní aktivity: Průměrně se mimoškolní aktivity hodnotily na 2.6.
+
+Obtěžování: Průměrná úroveň obtěžování byla 2.6.
+
+Úroveň stresu: Průměrná úroveň stresu byla 1.0, s rozsahem od 0 do 2.
+
+Tyto výsledky poskytují přehled o tom, jak se studenti cítí a jaké faktory ovlivňují jejich životní situaci a akademický výkon.
+
+Data s výsledky jsou uloženy v souborech descriptive_statistics.csv a descriptive_statistics.txt.
 
 ### Korelační analýza
 
