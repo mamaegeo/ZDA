@@ -2,9 +2,7 @@
 
 ## Téma semestrální práce: Analyza faktorů stresu u studentů
 
-## Situation
-
-### Sběr dat
+## Situace (Situation)
 
 V rámci tohoto projektu jsem analyzoval faktory přispívající ke stresu mezi studenty. Využil jsem k tomu výsledky průzkumu Student Stress Factors z portalu kaggle.com (https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data), které obsahují různé typy faktorů jako:
 
@@ -18,7 +16,9 @@ V rámci tohoto projektu jsem analyzoval faktory přispívající ke stresu mezi
 
 - Sociální faktor: 'social_support', 'peer_pressure', 'extracurricular_activities', 'bullying'
 
-### Zpracování dat
+## Zadání (Task)
+
+### Příprava dat
 
 Data, která jsem dostal, byla v dobrém stavu. Po provedení kontroly správnosti formátu všech datových prvků a také kontroly chybějících hodnot, dospěl jsem k závěru, že data jsou relativně konzistentní.
 
@@ -46,11 +46,10 @@ depression: Patient Health Questionnaire (PHQ-9)
 
 ostatní: 0,1 - nizká úroveň, 2,3 - průměrná úroveň, 4,5 - vysoká úroveň
 
-Task
+### Deskriptivní statistika
 
+## Akce (Action)
 
-Action
+## Výsledek (Result)
 
-Result
-
-Reviev
+## Shrnutí (Review)
