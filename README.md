@@ -154,4 +154,4 @@ Také mezi sebeúctou a sociální podporou existuje silná pozitivní korelace 
 
 ## Shrnutí (Review)
 
-V rámci semestrálního projektu jsem zkisil najít data, udělat jejích přípravu pro další zpracování, provést diskriptivní a korelační analýzy dat a definovat zavěry, které vyplývají z analýzy.
+V rámci semestrálního projektu jsem zkusil najít data, udělat jejích přípravu pro další zpracování, provést diskriptivní a korelační analýzy dat a definovat zavěry, které vyplývají z analýzy.
