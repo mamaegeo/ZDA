@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import csv
 
+
 # df = pd.read_csv('Student_Stress_Factors.csv')
 
 data = {
@@ -66,7 +67,6 @@ with open('descriptive_statistics.txt', 'w') as file:
 
 # Correlation Matrix
 corr_matrix = df.corr()
-corr_matrix.to_csv('correlation_matrix.txt', sep='\t', float_format='%.2f')
 
 # Visualization
 plt.figure(figsize=(16, 10))
@@ -74,9 +74,21 @@ sns.heatmap(corr_matrix, annot=True, cmap="coolwarm")
 plt.title("Correlation Matrix")
 plt.show()
 
+# Correlation heat map only stress level
+correlation_stress = corr_matrix['stress_level'].sort_values(ascending=False)
+correlation_stress = correlation_stress.drop('stress_level')
+plt.figure(figsize=(2, 8))
+sns.heatmap(correlation_stress.to_frame(), annot=True, cmap='coolwarm')
+plt.title('Only Stress Level')
+plt.show()
+
+plt.figure(figsize= (12,8))
+sns.boxplot(data=df, orient='h', color='lightblue')
+plt.title('Boxplot of all columns')
+plt.show()
+
 # Scatter Plot Matrix
 sns.pairplot(df)
 plt.suptitle("Scatter Plot Matrix", y=1.02)
-plt.show()
 
-plt.show()
+
