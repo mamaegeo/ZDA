@@ -22,12 +22,12 @@ Cílem tohoto projektu je provést detailní analýzu faktorů, které ovlivňuj
 
 Klíčové otázky:
 
-1) Kolik studentů v minulosti uvedlo problémy s duševním zdravím?
-2) Mají studenti, kteří zažívají šikanu, větší pravděpodobnost, že budou mít v minulosti problémy s duševním zdravím?
-3) Uvádějí studenti se špatnou kvalitou spánku také vyšší míru deprese?
-4) Existuje korelace mezi mírou úzkosti a akademickým výkonem?
-5) U kterého faktoru (psychologického, fyziologického, environmentálního, akademického, sociálního) nejvíce studentů uvádí nejvyšší míru stresu?
-6) Jaké jsou nejvýznamnější faktory vyvolávající stres u studentů?
+1) Kolik studentů trpí stresem?
+2) Kolik studentů v minulosti uvedlo problémy s duševním zdravím?
+3) Mají studenti, kteří zažívají šikanu, větší pravděpodobnost, že měli v minulosti problémy s duševním zdravím?
+4) Uvádějí studenti se špatnou kvalitou spánku také vyšší míru deprese?
+5) Existuje korelace mezi mírou úzkosti a akademickým výkonem?
+6) Jaké jsou nejvýznamnější faktory vyvolávající stres u studentů? U kterého faktoru (psychologického, fyziologického, environmentálního, akademického, sociálního) nejvíce studentů uvádí nejvyšší míru stresu?
 
 
 ## Akce (Action)
