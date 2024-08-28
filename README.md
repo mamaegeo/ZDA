@@ -248,5 +248,5 @@ Spánek, dobrá strava a cvičení - “Healthy lifestyle”
 
 Vyhledávání pomoci
 
-Myslím si, že můj návrh zcela odpovídá výše zmíněným “opatřením”. Jenom asi je třeba zmínit, že “Budování a udržování sociálních vazeb” bylo v daném článku na prvním místě pravděpodobně kvůli čerstvým datům z doby covidu, který měla velký vliv na lidstvo včetně studentů. Ovšem v datasetu, který byl mnou použit, důraz byl na jiné sociální faktory. Ale samozřejmě uznávám, že budování a udržování sociálních vazeb může mít pozitivní vliv při zmírnění úrovně stresu.
+Myslím si, že můj návrh zcela odpovídá výše zmíněným “opatřením”. Jenom asi je třeba zmínit, že “Budování a udržování sociálních vazeb” bylo v daném článku na prvním místě pravděpodobně kvůli čerstvým datům z doby covidu, který měl velký vliv na lidstvo včetně studentů. Ovšem v datasetu, který byl mnou použit, důraz byl na jiné sociální faktory. Ale samozřejmě uznávám, že budování a udržování sociálních vazeb může mít pozitivní vliv při zmírnění úrovně stresu.
  
